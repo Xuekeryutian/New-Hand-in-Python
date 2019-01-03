@@ -1,0 +1,9 @@
+在 Python 用 import 或者 from...import 来导入相应的模块。
+
+将整个模块导入，格式为：import module_name
+
+从某个模块中导入某个函数,格式为：from module_name import func1
+
+从某个模块中导入多个函数,格式为：from module_name import func1, func2, func3
+
+将某个模块中的全部函数导入，格式为：from module_name import *
